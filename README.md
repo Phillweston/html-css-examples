@@ -6,9 +6,9 @@ This repository contains the source code for my videos at [Bilibili, 峰华前�
 
 Text in videos and codes are primarily in Chinese, **But you can use this repository without knowing Chinese. Just read the critical part.**
 
-You can use this repository for inspirations and cheatsheets.
+You can use this repository for inspiration and cheat sheets.
 
-Online Demo： [https://zxuqian.github.io/html-css-examples/](https://zxuqian.github.io/html-css-examples/)
+Online Demo： [https://phillweston.github.io/html-css-examples/](https://phillweston.github.io/html-css-examples/)
 
 Each folder contains the source code of HTML and CSS examples, including:
 
@@ -20,17 +20,3 @@ Each folder contains the source code of HTML and CSS examples, including:
 - 3D Transformations
 - Native Canvas
 - and more...
-
-## My Personal Homepage
-
-[Blog](https://zxuqian.cn)
-
-[Bilibili](https://space.bilibili.com/302954484)
-
-Or scan the QR code below: 
-
-<img src="./bilibili.jpg" width="250" alt="Bilibili 峰华前端工程师" />
-
-## Contributing
-
-Currently, I have no contribution plans, but If you have any good examples, feel free to open an issue or submit a PR.

@@ -4,7 +4,7 @@
 
 [英文版](./README.md)
 
-在线 Demo 演示： [https://zxuqian.github.io/html-css-examples/](https://zxuqian.github.io/html-css-examples/)
+在线 Demo 演示： [https://phillweston.github.io/html-css-examples/](https://phillweston.github.io/html-css-examples/)
 
 仓库中的每个文件夹下即对应各个 HTML/CSS 示例的源代码，包括：
 
@@ -16,13 +16,3 @@
 - 3D 变换
 - 原生 Canvas
 - 还有更多...
-
-## 个人主页 
-
-[博客](https://zxuqian.cn)
-
-[点击跳转到我的 Bibibili 个人空间首页](https://space.bilibili.com/302954484)
-
-或者扫描下方二维码
-
-<img src="./bilibili.jpg" width="250" alt="Bilibili 峰华前端工程师" />

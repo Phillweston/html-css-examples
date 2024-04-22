@@ -152,6 +152,9 @@ const uis = [{
 }, {
   href: "30-gradient-background-animation",
   text: "渐变背景过渡动画"
+}, {
+  href: "52-day-night-toggle-button",
+  text: "白天黑夜切换按钮"
 }];
 
 function UILists() {
